@@ -3,8 +3,8 @@ let button2=document.querySelector("#contatti")
 
 
 button1.addEventListener("click", function(){
-    window.location.href="progettii.html"
+    window.location.href="Progects.html"
 })
 button2.addEventListener("click", function(){
-    window.location.href="contatti.html"
+    window.location.href="Contacts.html"
 })
